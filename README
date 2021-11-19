@@ -1,0 +1,32 @@
+Neuropsych Table Generator
+Author: Zimu Li
+Organization: Smith Memory Lab
+
+*******************************************************************************
+
+NOTE: preferably run this LOCALLY
+
+*******************************************************************************
+User’s Guide
+
+1.	Launch the executable application ‘NeuropsycTblGen’.
+2.	Wait for it to load, this might take a minute.
+3.	Enter the path of the input, file make sure you have ‘.xlsx’ or ‘.xls’ in the end.
+4.	Enter the path of the output file, make sure you have ‘.xlsx’ or ‘.xls’ in the end.
+5.	Answer the question: does your data sheet need to be re-calibrated? Usually NO. Enter ‘N’.
+6.	Find the output file in specified path.
+
+Calibration guide
+1	Enter ‘Y’ when asked if you need to re-calibrate.
+2	Enter the index number of the first entry in your Control group.
+3	Enter the index number of the first entry in your MCI group.
+4	Enter the total number of entries per group.
+
+Re-specify guide
+1.	Enter ‘Y’ when asked if you need to re-specify the tests you need
+2.	Enter the total number of test you want on the table
+3.	Enter the tests you want to specify then press ‘Enter” every time you enter a test
+
+Re-name guide
+1.	Rename is activated only after Re-specify is done
+2.	Enter the new name you want to for each prompted test then press ‘Enter” every time you enter a new name
